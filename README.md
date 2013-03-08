@@ -1,4 +1,0 @@
-beyondsocial
-============
-
-writing the book
